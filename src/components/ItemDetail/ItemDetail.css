@@ -1,0 +1,30 @@
+.stockInfo{
+    padding:0 25px;
+    font-size:20px;
+    margin-bottom: 50px;
+}
+.getBack-btn{
+    margin: 0 25px;
+    outline:none;
+    border-radius: 0px;
+    background-color:#c000b0;
+    color:#fff;
+    border: none;
+    padding:10px;
+    transition: all 0.2s ease-in;
+}
+.getBack-btn:hover{
+    transform:scale(.97);
+    opacity:.9;
+}
+
+.infoContainer{
+    min-width: 400px;
+    padding-left: 50px; 
+    background-color:rgb(235, 235, 235);
+    padding:10px;
+}
+.detailCard{
+    margin: 40px;
+    
+}
